@@ -1,4 +1,4 @@
-# Aave Flash Loan Tutorial
+# ⚡⚡⚡Aave Flash Loan Tutorial
 Create an Aave Flash Loan arbitrage smart contract from scratch in this comprehensive flash loan tutorial by Block Explorer.
 
 ## Project repo:
